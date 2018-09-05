@@ -1,5 +1,5 @@
 ## UFO_javascript
-wk14_js
+wk14-HW
 
 I used javaScript to create a table dynamically from a provided dataset, about UFO-sightings. The dataset is mapped one cell at-a-time into a table on the HTML page.
 
